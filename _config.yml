@@ -1,0 +1,28 @@
+name: Gridappointment
+favicon: null
+layout_spectrum: 0.37189852609299123
+typography_spectrum: 0.5822643477004021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7430819168221205
+  lightness: 0.3263179922942072
+  saturation: 0.8552762493491173
+  rhythmicContrast: 0.446741851978004
+purpose: []
